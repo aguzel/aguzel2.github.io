@@ -1,1 +1,0 @@
-# aguzel.github.io
