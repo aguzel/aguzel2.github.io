@@ -1,10 +1,16 @@
-## <A.H Guzel> 
+
+# <A.H Guzel> 
 
 Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University of Leeds / UK 
 
 
-### Skills
+### Skills 
+- C++ 
+- Python 
+- OpenGL
+- Pytorch 
 ### Resume
+- loram ipsum
 ### Portfolio
 ### Certificates
 
