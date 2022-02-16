@@ -65,7 +65,8 @@ In this project, A* graph-traversal and path search algorithm is implemented in 
 While this course does not provide any requisite for the project, I implement it in C++ to improve my C++ skills. 
 So, this project is both my learning from Algorithms course as well as my Udacity C++ developer's course conjuction. 
 My implementation was different than Udacity's solution, however there was no difference in the solution for both codes. 
-![astar](https://user-images.githubusercontent.com/46696280/154196980-8540050b-a289-4ed7-842f-b075f1d838f4.png)
+
+![image](https://user-images.githubusercontent.com/46696280/154197590-64d20a24-4fea-4761-b751-dd7f3b29b751.png)
 
 Figure below shows start and goal point along with the A* algorithms' selected shortest path. 
 
