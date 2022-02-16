@@ -17,7 +17,7 @@ Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University
 The aim of project analysing the data and creating a model which learns from the data to predict median house pricing for a given new data as input.
 Objective of this project can be addressed for imaginary estate agent evaluation company business model. I believe this is a very good use case, since housing price evaluation normally depends on nested calculations which create complex sceneries to specialists should solve. This is time consuming and not scalable. This model should reduce the errors in complex rules of estimation. For example, experts without this model can fail to predict right values due to number of parameters involved in their calculations. So, no estate agents wants to fail to set a descent price on houses for sale.
 
-![CAli_house](https://user-images.githubusercontent.com/46696280/154192357-6a46d227-1b47-4f36-884b-729e923dec33.png)
+![cali2](https://user-images.githubusercontent.com/46696280/154192865-d41afe58-78e8-4dad-88e5-0684eef77551.png)
 
 #### Summary 
 - Achievements
