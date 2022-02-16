@@ -131,7 +131,7 @@ Selected Test Case
 
 ![image](https://user-images.githubusercontent.com/46696280/154197965-cf543de6-29df-484e-a9fd-7bb3119bdf1f.png)
 
-In this project the aim is captioning the image and according the 0.221 value, it can be concluded that it is not a good score since every caption finds the almost 22% meaningful overlap between test case captions. Even though 0.221 is a low number,human judge should be consider. BLEU is largely used in machine translation which compares translated sentence to original sentence. In this project, image captioning is the main aim, and comparing predicted caption with 5 different reference may fail the BLEU as a disadvantage. Before judging BLEU in terms of it's prediction over meaningful sentence or just number of overlapped words, human level judgment should be considered. This will be done in next section.
+In this project the aim is captioning the image and according the 0.221 value, it can be concluded that it is not a good score since every caption finds the almost 22% meaningful overlap between test case captions. Even though 0.221 is a low number,human judge should be consider. BLEU is largely used in machine translation which compares translated sentence to original sentence. In this project, image captioning is the main aim, and comparing predicted caption with 5 different reference may fail the BLEU as a disadvantage. Before judging BLEU in terms of it's prediction over meaningful sentence or just number of overlapped words, human level judgment should be considered.
 
 
 
