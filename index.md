@@ -112,7 +112,7 @@ In this section, I explored using Gradient-weighted Class Activation Mapping (Gr
 During the class, a private kaggle competition was opened, and my submission was winner with a notable margin score to the closest student score.
 [1st score is the test-case by teaching assistant] 
 
-https://www.kaggle.com/c/leedsimageclassification/leaderboard
+<https://www.kaggle.com/c/leedsimageclassification/leaderboard>
 
 #### Project 2 - Image Capture Generation [CNN + RNN] 
 
