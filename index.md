@@ -68,7 +68,7 @@ My implementation was different than Udacity's solution, however there was no di
 
 Figure below shows start and goal point along with the A* algorithms' selected shortest path. 
 
-![Astar](https://user-images.githubusercontent.com/46696280/154194127-3dc1e0dc-68fa-4514-8909-a4bd23b1ae73.png)
+![image](https://user-images.githubusercontent.com/46696280/154194354-64ab9bf6-ce18-4a70-b30f-0cac450e3b19.png)
 
 >180 lines of C++ code written from scratch. 
 
