@@ -4,11 +4,17 @@
 Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University of Leeds / UK 
 
 
-### Skills 
+#### Programming Skills 
+- Python [inc. all ML/Data Analysis libraries] 
 - C++ 
-- Python 
-- OpenGL
-- Pytorch 
+- MATLAB 
+- 
+#### Interests and Skill Gaining Areas 
+- Machine Learning & Deep Learning 
+- Computer Graphics
+- Image Processing 
+- Computational Photography
+- Real-Time Graphics [virtual reality] 
 
 ## Course Projects Portfolio
 
