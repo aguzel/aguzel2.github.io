@@ -177,11 +177,17 @@ based physics engine for propulsion system. Game consist more than 700 code line
 ### Certificates
 
 Arizona State University - Data Structure and Algorithms
+
 Arizona State University - Computer Organization and Assembly Language processing 
+
 Arizona State University - Operating Systems 
+
 Arizona State University - Deep Learning in Visual Computing Systems
+
 UIUC - OOP Data Structures in C++ 
+
 Michigan State University - Game Development 
+
 Udacity C++ [ongoing]
 
 
