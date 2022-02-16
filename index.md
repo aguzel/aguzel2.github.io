@@ -195,7 +195,7 @@ UIUC - OOP Data Structures in C++
 
 Michigan State University - Game Development 
 
-Udacity C++ [ongoing]
+Udacity Nanodegree - C++ Developer [ongoing]
 
 
 - Contact : od20ahg@leeds.ac.uk 
