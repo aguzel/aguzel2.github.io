@@ -1,7 +1,7 @@
 
 # <A.H Guzel> 
 
-Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University of Leeds / UK 
+#### Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University of Leeds / UK 
 
 Hello, I am University of Leeds AI & computer graphics master of science student/researcher pursuing a career change to computer science academia from motorsports multi-physics simulation engineer with several years of experience creating numerical methods and coupling commercial finite element codes to improve modeling of F1/FE power-train systems. This is my computer science research page, if you want to get my previous engineering career please find me on Linkedin. 
 
