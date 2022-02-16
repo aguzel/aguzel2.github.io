@@ -134,6 +134,19 @@ Selected Test Case
 In this project the aim is captioning the image and according the 0.221 value, it can be concluded that it is not a good score since every caption finds the almost 22% meaningful overlap between test case captions. Even though 0.221 is a low number,human judge should be consider. BLEU is largely used in machine translation which compares translated sentence to original sentence. In this project, image captioning is the main aim, and comparing predicted caption with 5 different reference may fail the BLEU as a disadvantage. Before judging BLEU in terms of it's prediction over meaningful sentence or just number of overlapped words, human level judgment should be considered.
 
 
+### Carnegie Mellon Universuity - Computer Graphics 
+
+This course offered by CMU, and their sources are (inc. assignments) available for public. 
+During the course, I completed rasterization assignment in C++. 
+
+Initially, hardware-rendering with OpenGL support is completed by using OpenGL library. 
+![image](https://user-images.githubusercontent.com/46696280/154198540-6771a17e-bb58-46b0-b585-bb1218c7f590.png), ![image](https://user-images.githubusercontent.com/46696280/154198669-553d9358-5dc5-4560-811b-3566ada406a1.png)
+
+
+
+
+
+
 
 
 ### Certificates
