@@ -10,9 +10,9 @@ Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University
 - OpenGL
 - Pytorch 
 
-### Course Portfolio
+## Course Projects Portfolio
 
-## University of Leeds - AI MSc - Course : Data Science 
+### University of Leeds - AI MSc - Course : Data Science 
 Fraud detection is very important problem for banks. Even percentage of frauds over all time
 banking processes, it can be a big problem since fraud costs a lot of money for banks due to
 massive transactions in each day. A data scientist should build a very good fraud detection
@@ -21,13 +21,9 @@ algorithm to overcome this issue.
 In this project, two different machine learning algorithms will be used to find best model for
 fraud detection
 
-SMOTE Technic is used to eliminate data imbalance.
-
-![data_science_SMOTE](https://user-images.githubusercontent.com/46696280/154191108-bc4b2a16-7e22-4f07-bab9-87b7d96e9e3f.png), ![data_science_pic_final](https://user-images.githubusercontent.com/46696280/154190794-ac9c1fa6-cd63-4279-aa8c-1fca24a1e732.png)
-
-
 Summary of Results; 
-
+kNN Classifier &  Decision Tree Classifier Comparison 
+![kNN](https://user-images.githubusercontent.com/46696280/154191684-3a14c0f9-fc22-4a70-9b00-bd67a6cdd111.png) ![dT](https://user-images.githubusercontent.com/46696280/154191710-663b2c15-ca99-4b89-83b6-4eb146db72e9.png)
 
 
 Two techniques which are decision tree and k-nn binary classifier have been selected as machine learning models for fraud detection problem.
