@@ -23,12 +23,12 @@ fraud detection
 
 SMOTE Technic is used to eliminate data imbalance.
 
-![data_science_SMOTE](https://user-images.githubusercontent.com/46696280/154191108-bc4b2a16-7e22-4f07-bab9-87b7d96e9e3f.png)
+![data_science_SMOTE](https://user-images.githubusercontent.com/46696280/154191108-bc4b2a16-7e22-4f07-bab9-87b7d96e9e3f.png), ![data_science_pic_final](https://user-images.githubusercontent.com/46696280/154190794-ac9c1fa6-cd63-4279-aa8c-1fca24a1e732.png)
 
 
 Summary of Results; 
 
-![data_science_pic_final](https://user-images.githubusercontent.com/46696280/154190794-ac9c1fa6-cd63-4279-aa8c-1fca24a1e732.png)
+
 
 Two techniques which are decision tree and k-nn binary classifier have been selected as machine learning models for fraud detection problem.
 
