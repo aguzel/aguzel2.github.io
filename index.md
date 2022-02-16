@@ -99,7 +99,8 @@ In this section, we will explore using Gradient-weighted Class Activation Mappin
 ![image](https://user-images.githubusercontent.com/46696280/154195396-631a0307-0913-4a24-b2c5-38d386257828.png)
 
 
-During the class, a private kaggle competition was opened, and my submission was first among the all students in the program.[1st is test-case by teaching assistants] 
+During the class, a private kaggle competition was opened, and my submission was winner with a notable margin score to the closest student score.
+[1st score is the test-case by teaching assistant] 
 
 https://www.kaggle.com/c/leedsimageclassification/leaderboard
 
