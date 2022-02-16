@@ -78,9 +78,8 @@ More than 180 lines of C++ code have written from scratch.
 #### Project 1 - Image Classification and Grad-CAM Heat Map Generation 
 
 Through this coursework, I:
-
-        Practiced building, evaluating, and finetuning a convolutional neural network on an image dataset from development to testing.
-        Gained a deeper understanding of feature maps and filters by visualizing some from a pre-trained network.
+-Practiced building, evaluating, and finetuning a convolutional neural network on an image dataset from development to testing.
+-Gained a deeper understanding of feature maps and filters by visualizing some from a pre-trained network.
 
 Pytorch is used to complete project. 
 3x64x64 resolution >10k image data is used in this project for multiclass classification. 
@@ -110,10 +109,9 @@ https://www.kaggle.com/c/leedsimageclassification/leaderboard
 #### Project 2 - Image Capture Generation [CNN + RNN] 
 
 Through this coursework, I:
-
-        Understood the principles of text pre-processing and vocabulary building.
-        Gained experience working with an image to text model.
-        Used and compared two different text similarity metrics for evaluating an image to text model, and understood evaluation challenges.
+Understood the principles of text pre-processing and vocabulary building.
+Gained experience working with an image to text model.
+Used and compared two different text similarity metrics for evaluating an image to text model, and understood evaluation challenges.
         
 I used the Flickr8k image caption dataset for image caption generation. The dataset consists of 8000 images, each of which has five different descriptions of the salient entities and activities. 
 
@@ -127,7 +125,7 @@ Optimisation model, hypertunning the parameters are performed. GPU training is c
 
 ![image](https://user-images.githubusercontent.com/46696280/154197335-340622a2-a611-42c1-8acb-6913d68bca41.png)
 
-![image](https://user-images.githubusercontent.com/46696280/154197371-f818a176-8b37-405a-b17c-e885594a2870.png)
+![image](https://user-images.githubusercontent.com/46696280/154197743-9c852ad3-5651-41bd-8bcb-f95f853b2e4c.png)
 
 In this project the aim is captioning the image and according the 0.221 value, it can be concluded that it is not a good score since every caption finds the almost 22% meaningful overlap between test case captions. Even though 0.221 is a low number,human judge should be consider. BLEU is largely used in machine translation which compares translated sentence to original sentence. In this project, image captioning is the main aim, and comparing predicted caption with 5 different reference may fail the BLEU as a disadvantage. Before judging BLEU in terms of it's prediction over meaningful sentence or just number of overlapped words, human level judgment should be considered. This will be done in next section.
 
