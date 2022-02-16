@@ -123,7 +123,11 @@ Pytorch code lines are written from scratch [there was no boiler-plate code]
 
 Optimisation model, hypertunning the parameters are performed. GPU training is completed in Google Colab-Pro. 
 
-![image](https://user-images.githubusercontent.com/46696280/154197335-340622a2-a611-42c1-8acb-6913d68bca41.png)
+BLEU Scoring 
+
+![image](https://user-images.githubusercontent.com/46696280/154197849-994620c1-c6c5-44bf-802e-9502922201f0.png)
+
+Selected Test Case 
 
 ![image](https://user-images.githubusercontent.com/46696280/154197743-9c852ad3-5651-41bd-8bcb-f95f853b2e4c.png)
 
