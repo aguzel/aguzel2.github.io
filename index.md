@@ -3,7 +3,7 @@
 
 #### Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University of Leeds / UK 
 
-Hello, I am University of Leeds AI & computer graphics master of science student/researcher pursuing a career change to computer graphics + (AI) research from motorsports multi-physics simulation engineer with several years of experience creating numerical methods and coupling commercial finite element codes to improve modeling of F1/FE power-train systems. This is my CS related research/portfolio page, if you want to get my previous engineering career please find me on Linkedin. 
+Hello, I am University of Leeds AI & computer graphics master of science student/researcher pursuing a career change to computer graphics + (AI) research from motorsports multi-physics simulation engineer with several years of experience creating numerical methods and coupling commercial finite element codes to improve modeling of F1/FE power-train systems. This is my CS related research/portfolio page, if you want to look at my previous engineering career(publications, patents etc.) please find me on Linkedin. 
 
 
 
@@ -20,18 +20,18 @@ Hello, I am University of Leeds AI & computer graphics master of science student
 ## Course Projects Portfolio
 
 ### University of Leeds - AI MSc - Course : Programming For Data Science 
-- California Housing Price Prediction
+-California Housing Price Prediction
 The aim of project analysing the data and creating a model which learns from the data to predict median house pricing for a given new data as input.
 Objective of this project can be addressed for imaginary estate agent evaluation company business model. I believe this is a very good use case, since housing price evaluation normally depends on nested calculations which create complex sceneries to specialists should solve. This is time consuming and not scalable. This model should reduce the errors in complex rules of estimation. For example, experts without this model can fail to predict right values due to number of parameters involved in their calculations. So, no estate agents wants to fail to set a descent price on houses for sale.
 
 ![cali_final](https://user-images.githubusercontent.com/46696280/154192899-132e5ac7-8103-4d58-9aeb-6b797bafdc9d.png)
 
 #### Summary 
-- Achievements
+-Achievements
 Achievements can be categorised under two parts are data analysis and model selection. Firstly, from raw housing data to learning model ready data process successfully completed without going into detail too much. Main reason for this selected methods to understand and analyse the data well served. Moreover, geographical data visualization is achieved w/o comprising jupyter notebook performance issue. This is completed by researching the high performance library for geographical visualization along with more than 20,000 markers. Furthermore, data pipe-lining successfully completed to prepare data for training. In this part both test and training data enters to pipeline process. Even though a function hasn't been created, it would be good to create a function which allows scalability of data. In terms of model training, two different model successfully used from scikit-learn’s machine learning library. Their performance also compared, and one model is selected as best model to be used in testing data. Model's drawbacks and results are compared in terms of root mean square error which is chosen as performance measure for models.
-- Limitations
+-Limitations
 Regarding to my research for similar projects, this data set is not huge enough to build high accuracy models to predict median house values for any given attribute listed in data set. Moreover, housing median age and median house value data is restricted with selected value. This creates problems to fit the model. Removing them should improve training set but objective of this project will be harmed due to prediction capability of model is limited by median house value prediction and house information.
-- Future Work
+-Future Work
 Possible future work would be using same process for data analysis and improving both models, or adding extra steps to data analysis section while trying more machine learning algorithms. After, other data set for different locations for example London can be gathered and worked to test model.
 
 ### University of Leeds - AI MSc - Course : Data Science 
@@ -198,33 +198,6 @@ Michigan State University - Game Development
 Udacity C++ [ongoing]
 
 
+- Contact : od20ahg@leeds.ac.uk 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aguzel/aguzel.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
