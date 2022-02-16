@@ -72,6 +72,38 @@ Figure below shows start and goal point along with the A* algorithms' selected s
 
 More than 180 lines of C++ code have written from scratch. 
 
+### University of Leeds - AI MSc - Course : Deep Learning 
+#### Project 1 - Image Classification and Grad-CAM Heat Map Generation 
+
+Through this coursework, I:
+
+        Practiced building, evaluating, and finetuning a convolutional neural network on an image dataset from development to testing.
+        Gained a deeper understanding of feature maps and filters by visualizing some from a pre-trained network.
+
+Pytorch is used to complete project. 
+3x64x64 resolution >10k image data is used in this project for multiclass classification. 
+
+I developed my own CNN architecture, optimisation method, and training parameter tunning for the best accuracy on both test and training case. 
+
+![image](https://user-images.githubusercontent.com/46696280/154195082-b0120c5b-52aa-4366-bbab-58bb308f0bad.png)
+
+- Analysis of CNN Filters and Max-Pooling Filters 
+
+![image](https://user-images.githubusercontent.com/46696280/154195248-def2420a-5c8c-4404-b915-444692c6d776.png)
+![image](https://user-images.githubusercontent.com/46696280/154195321-fc307694-9cfe-4e8e-af6a-428ca9b6d46a.png)
+
+
+-Grad-CAM 
+In this section, we will explore using Gradient-weighted Class Activation Mapping (Grad-CAM) to generate coarse localization maps highlighting the important regions in the test images guiding the model's prediction. I used pre-trained AlexNet for a single example image. 
+
+![image](https://user-images.githubusercontent.com/46696280/154195396-631a0307-0913-4a24-b2c5-38d386257828.png)
+
+
+During the class, a private kaggle competition was opened, and my submission was first among the all students in the program.[1st is test-case by teaching assistants] 
+
+![image](https://user-images.githubusercontent.com/46696280/154195680-f26ec00d-1065-4bdf-9231-58a79e5528ed.png)
+
+
 
 
 
