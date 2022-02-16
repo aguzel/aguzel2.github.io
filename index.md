@@ -95,7 +95,7 @@ I developed my own CNN architecture, optimisation method, and training parameter
 
 -Grad-CAM 
 
-In this section, we will explore using Gradient-weighted Class Activation Mapping (Grad-CAM) to generate coarse localization maps highlighting the important regions in the test images guiding the model's prediction. I used pre-trained AlexNet for a single example image. 
+In this section, I explored using Gradient-weighted Class Activation Mapping (Grad-CAM) to generate coarse localization maps highlighting the important regions in the test images guiding the model's prediction. I used pre-trained AlexNet for a single example image. 
 
 ![image](https://user-images.githubusercontent.com/46696280/154195396-631a0307-0913-4a24-b2c5-38d386257828.png)
 
