@@ -14,7 +14,7 @@ Hello, I am AI & computer graphics master of science student/researcher at Unive
 - MATLAB 
 
 #### Interests and Skill Gaining Areas 
-- I have only one main interest which is research in [computer graphics + AI], and I am working to improve my technical comptence areas below;
+ I have only one main interest which is research in [computer graphics + AI], and I am working to improve my technical comptence areas below;
 
 -> Neural Rendering [inc. real-time graphics]
 
