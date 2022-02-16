@@ -138,6 +138,8 @@ In this project the aim is captioning the image and according the 0.221 value, i
 
 This course offered by CMU, and their sources are (inc. assignments) available for public. 
 During the course, I completed rasterization assignment in C++. 
+In theproject, I implemented a software rasterizer that draws points, lines, triangles, and bitmap images.
+Also, a given SVG file is able to be rasterized by my implementation both in hardware and software type implementation. 
 
 #### Hardware Rendering
 
@@ -158,7 +160,7 @@ My approach was writing an algorithm to find framework of triangles and scanning
 
 In this task, I extended my rasterizer to anti-alias triangle edges via supersampling.
 Supersampling implementation is completed by using right memory management approach since cost of supersampling is high. 
-Results below shows 3 different sampling rate's performance over my implementation. 
+Results below shows 2 different sampling rate's (1x, 4x) performance over my implementation. 
 
 ![image](https://user-images.githubusercontent.com/46696280/154200375-661967f5-2e70-43e5-8b7f-a2c8a03784a4.png)
 
@@ -180,7 +182,7 @@ Arizona State University - Operating Systems
 Arizona State University - Deep Learning in Visual Computing Systems
 UIUC - OOP Data Structures in C++ 
 Michigan State University - Game Development 
-Udacity C++ [ongoing 
+Udacity C++ [ongoing]
 
 
 
