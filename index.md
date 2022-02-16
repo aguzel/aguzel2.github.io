@@ -57,6 +57,22 @@ in terms of AUROC which is used as proper performance metrics for this study, k-
 In static split method, it can be observable that AUROC and other performance metrics for decision tree algorithm is resulted perfect 100%. It clearly shows that there is an overfitting problem withhour cross validation technic.
 
 
+### University of Leeds - AI MSc - Course : Algorithms 
+
+#### Implementing A* Search Algorithm [C++] 
+
+In this project, A* graph-traversal and path search algorithm is implemented in C++. 
+While this course does not provide any requisite for the project, I implement it in C++ to improve my C++ skills. 
+So, this project is both my learning from Algorithms course as well as my Udacity C++ developer's course conjuction. 
+My implementation was different than Udacity's solution, however there was no difference in the solution for both codes. 
+
+Figure below shows start and goal point along with the A* algorithms' selected shortest path. 
+
+![Astar](https://user-images.githubusercontent.com/46696280/154194127-3dc1e0dc-68fa-4514-8909-a4bd23b1ae73.png)
+
+>180 lines of C++ code written from scratch. 
+
+
 
 
 ### Certificates
