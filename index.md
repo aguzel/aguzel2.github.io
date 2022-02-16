@@ -70,7 +70,7 @@ Figure below shows start and goal point along with the A* algorithms' selected s
 
 ![image](https://user-images.githubusercontent.com/46696280/154194354-64ab9bf6-ce18-4a70-b30f-0cac450e3b19.png)
 
->180 lines of C++ code written from scratch. 
+More than 180 lines of C++ code have written from scratch. 
 
 
 
