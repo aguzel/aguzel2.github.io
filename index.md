@@ -22,7 +22,7 @@ Hello, I am AI & computer graphics master of science student/researcher at Unive
 
 -> Geometry Processing
 
--> Graphics GPU Pipeline APIs [Vulkan] <this is for deployment of CG+AI research output] 
+-> Graphics GPU Pipeline APIs [Vulkan] <this is for deployment of CG+AI research output> 
 
 ## Gradute Coursework/Projects Portfolio
 
