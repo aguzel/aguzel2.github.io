@@ -14,13 +14,13 @@ Hello, I am AI & computer graphics master of science student/researcher at Unive
 - MATLAB 
 
 #### Interests and Skill Gaining Areas 
-- Computer Graphics + AI 
-- Real-Time Graphics [Foveated Rendering]  
-- Deep Learning
-- Computational Photography
-- Computer Vision
+- I have only one main interest which is research in [computer graphics + AI], and I am working to improve my technical comptence areas below;
+-> Neural Rendering [inc. real-time graphics]
+-> Foveated Rendering + AI [VR]
+-> Geometry Processing
+-> Graphics GPU Pipeline Development [Vulkan] <this is for deployment of CG+AI research output] 
 
-## Course Projects Portfolio
+## Gradute Coursework/Projects Portfolio
 
 ### University of Leeds - AI MSc - Course : Programming For Data Science 
 -California Housing Price Prediction
