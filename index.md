@@ -140,7 +140,7 @@ This course offered by CMU, and their sources are (inc. assignments) available f
 During the course, I completed rasterization assignment in C++. 
 
 Initially, hardware-rendering with OpenGL support is completed by using OpenGL library. 
-![image](https://user-images.githubusercontent.com/46696280/154198540-6771a17e-bb58-46b0-b585-bb1218c7f590.png), ![image](https://user-images.githubusercontent.com/46696280/154198770-5f89b889-a056-4839-9fbc-72c75c645860.png)
+![image](https://user-images.githubusercontent.com/46696280/154198540-6771a17e-bb58-46b0-b585-bb1218c7f590.png), ![image](https://user-images.githubusercontent.com/46696280/154198857-ff2f1103-fd13-429b-8ab9-46f291ca7682.png)
 
 
 
