@@ -15,9 +15,13 @@ Hello, I am AI & computer graphics master of science student/researcher at Unive
 
 #### Interests and Skill Gaining Areas 
 - I have only one main interest which is research in [computer graphics + AI], and I am working to improve my technical comptence areas below;
+- 
 -> Neural Rendering [inc. real-time graphics]
+
 -> Foveated Rendering + AI [VR]
+
 -> Geometry Processing
+
 -> Graphics GPU Pipeline Development [Vulkan] <this is for deployment of CG+AI research output] 
 
 ## Gradute Coursework/Projects Portfolio
