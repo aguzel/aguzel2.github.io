@@ -139,19 +139,48 @@ In this project the aim is captioning the image and according the 0.221 value, i
 This course offered by CMU, and their sources are (inc. assignments) available for public. 
 During the course, I completed rasterization assignment in C++. 
 
-Initially, hardware-rendering with OpenGL support is completed by using OpenGL library. 
+#### Hardware Rendering
+
+Initially, I implemented hardware-rendering with OpenGL API support.
+
 ![image](https://user-images.githubusercontent.com/46696280/154198540-6771a17e-bb58-46b0-b585-bb1218c7f590.png), ![image](https://user-images.githubusercontent.com/46696280/154198857-ff2f1103-fd13-429b-8ab9-46f291ca7682.png)
 
+#### Rasterization [Software Rendering]
+
+Later, software implementation of rasterization is completed by writing C++ from scratch. 
+The challange was, instead of scanning all the pixels, a clever algorithm was asked to improve speed of rasterization. 
+My approach was writing an algorithm to find framework of triangles and scanning only space in triangle framework. This improved the speed of software dramatically. Image below is to show triangle - framework capture algorithm's visualisation. 
+
+![image](https://user-images.githubusercontent.com/46696280/154199084-d0f8a4dc-289d-4b26-8882-b182426024c5.png)
 
 
+#### Rasterization [Software Rendering] - Anti-Aliasing Using Supersampling
+
+In this task, I extended my rasterizer to anti-alias triangle edges via supersampling.
+Supersampling implementation is completed by using right memory management approach since cost of supersampling is high. 
+Results below shows 3 different sampling rate's performance over my implementation. 
+
+![image](https://user-images.githubusercontent.com/46696280/154200375-661967f5-2e70-43e5-8b7f-a2c8a03784a4.png)
 
 
+### Personal Game Development Project - Twin Interaction eVTOL 
 
+I developed a game in Unity VS C# environment. Game interacts with hobby motors and communicate over serial communication port. Gamer's
+control on aircraft speed reacts the real hardware and sensors on hardware de-rates the performance of aircraft. Idea was building a real hardware
+based physics engine for propulsion system. Game consist more than 700 code lines in C#.
 
+![image](https://user-images.githubusercontent.com/46696280/154200602-44411813-58cf-44db-b4cb-e67a548c0e8b.png)
 
 
 ### Certificates
 
+Arizona State University - Data Structure and Algorithms
+Arizona State University - Computer Organization and Assembly Language processing 
+Arizona State University - Operating Systems 
+Arizona State University - Deep Learning in Visual Computing Systems
+UIUC - OOP Data Structures in C++ 
+Michigan State University - Game Development 
+Udacity C++ [ongoing 
 
 
 
