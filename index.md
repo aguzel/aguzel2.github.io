@@ -18,6 +18,7 @@ Hello, I am AI & computer graphics master of science student/researcher at Unive
 - Real-Time Graphics [Foveated Rendering]  
 - Deep Learning
 - Computational Photography
+- Computer Vision
 
 ## Course Projects Portfolio
 
