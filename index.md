@@ -24,7 +24,8 @@ fraud detection
 Summary of Results; 
 kNN Classifier &  Decision Tree Classifier Comparison 
 
-![kNN](https://user-images.githubusercontent.com/46696280/154191684-3a14c0f9-fc22-4a70-9b00-bd67a6cdd111.png), ![dT](https://user-images.githubusercontent.com/46696280/154191710-663b2c15-ca99-4b89-83b6-4eb146db72e9.png)
+![kNN](https://user-images.githubusercontent.com/46696280/154191684-3a14c0f9-fc22-4a70-9b00-bd67a6cdd111.png),![dT](https://user-images.githubusercontent.com/46696280/154192012-2e44f2f6-af8d-4a5e-a99b-c2ff0ff3ffc2.png)
+ 
 
 
 Two techniques which are decision tree and k-nn binary classifier have been selected as machine learning models for fraud detection problem.
