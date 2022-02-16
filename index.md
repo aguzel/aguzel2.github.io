@@ -13,11 +13,9 @@ Hello, I am University of Leeds AI & computer graphics master of science student
 - MATLAB 
 
 #### Interests and Skill Gaining Areas 
-- Machine Learning & Deep Learning 
-- Computer Graphics
-- Image Processing 
-- Computational Photography
+- Computer Graphics + AI 
 - Real-Time Graphics [virtual reality] 
+- Computational Photography
 
 ## Course Projects Portfolio
 
