@@ -1,7 +1,7 @@
 
 
 
-### <A.H. Guzel> 
+### A.H. Guzel
 #### Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University of Leeds / UK 
 
 Hello, I am University of Leeds AI & computer graphics master of science student/researcher pursuing a career change to computer graphics + (AI) research from motorsports multi-physics simulation engineer with several years of experience creating numerical methods and coupling commercial finite element codes to improve modeling of F1/FE power-train systems. This is my CS related research/portfolio page, if you want to look at my previous engineering career(publications, patents etc.) please find me on Linkedin. 
@@ -102,7 +102,7 @@ I developed my own CNN architecture, optimisation method, and training parameter
 ![image](https://user-images.githubusercontent.com/46696280/154195321-fc307694-9cfe-4e8e-af6a-428ca9b6d46a.png)
 
 
--Grad-CAM 
+#### Grad-CAM Generation
 
 In this section, I explored using Gradient-weighted Class Activation Mapping (Grad-CAM) to generate coarse localization maps highlighting the important regions in the test images guiding the model's prediction. I used pre-trained AlexNet for a single example image. 
 
@@ -131,11 +131,11 @@ Pytorch code lines are written from scratch [there was no boiler-plate code]
 
 Optimisation model, hypertunning the parameters are performed. GPU training is completed in Google Colab-Pro. 
 
-BLEU Scoring 
+#### BLEU Scoring 
 
 ![image](https://user-images.githubusercontent.com/46696280/154197849-994620c1-c6c5-44bf-802e-9502922201f0.png)
 
-Selected Test Case 
+#### Selected Test Case for Model's Prediction Performance 
 
 ![image](https://user-images.githubusercontent.com/46696280/154197965-cf543de6-29df-484e-a9fd-7bb3119bdf1f.png)
 
