@@ -65,6 +65,7 @@ In this project, A* graph-traversal and path search algorithm is implemented in 
 While this course does not provide any requisite for the project, I implement it in C++ to improve my C++ skills. 
 So, this project is both my learning from Algorithms course as well as my Udacity C++ developer's course conjuction. 
 My implementation was different than Udacity's solution, however there was no difference in the solution for both codes. 
+![astar](https://user-images.githubusercontent.com/46696280/154196980-8540050b-a289-4ed7-842f-b075f1d838f4.png)
 
 Figure below shows start and goal point along with the A* algorithms' selected shortest path. 
 
@@ -104,6 +105,31 @@ During the class, a private kaggle competition was opened, and my submission was
 [1st score is the test-case by teaching assistant] 
 
 https://www.kaggle.com/c/leedsimageclassification/leaderboard
+
+#### Project 2 - Image Capture Generation [CNN + RNN] 
+
+Through this coursework, I:
+
+        Understood the principles of text pre-processing and vocabulary building.
+        Gained experience working with an image to text model.
+        Used and compared two different text similarity metrics for evaluating an image to text model, and understood evaluation challenges.
+        
+I used the Flickr8k image caption dataset for image caption generation. The dataset consists of 8000 images, each of which has five different descriptions of the salient entities and activities. 
+
+![image](https://user-images.githubusercontent.com/46696280/154197077-a4022ca9-263e-48de-b8ff-de2b09d4481c.png)
+
+During the project, I developed a CNN and RNN models to train a model aiming to generate image captures with the best accuracy. 
+
+Pytorch code lines are written from scratch [there was no boiler-plate code]
+
+Optimisation model, hypertunning the parameters are performed. GPU training is completed in Google Colab-Pro. 
+
+![image](https://user-images.githubusercontent.com/46696280/154197335-340622a2-a611-42c1-8acb-6913d68bca41.png)
+
+![image](https://user-images.githubusercontent.com/46696280/154197371-f818a176-8b37-405a-b17c-e885594a2870.png)
+
+In this project the aim is captioning the image and according the 0.221 value, it can be concluded that it is not a good score since every caption finds the almost 22% meaningful overlap between test case captions. Even though 0.221 is a low number,human judge should be consider. BLEU is largely used in machine translation which compares translated sentence to original sentence. In this project, image captioning is the main aim, and comparing predicted caption with 5 different reference may fail the BLEU as a disadvantage. Before judging BLEU in terms of it's prediction over meaningful sentence or just number of overlapped words, human level judgment should be considered. This will be done in next section.
+
 
 
 
