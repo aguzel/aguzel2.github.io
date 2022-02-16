@@ -4,7 +4,7 @@
 ### A.H. Guzel
 #### Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University of Leeds / UK 
 
-Hello, I am University of Leeds AI & computer graphics master of science student/researcher pursuing a career change to computer graphics + (AI) research from motorsports multi-physics simulation engineer with several years of experience creating numerical methods and coupling commercial finite element codes to improve modeling of F1/FE power-train systems. This is my CS related research/portfolio page, if you want to look at my previous engineering career(publications, patents etc.) please find me on Linkedin. 
+Hello, I am University of Leeds AI & computer graphics master of science student/researcher pursuing a career change to computer graphics + (AI) research from motor-sports multi-physics simulation engineer with several years of experience creating numerical methods and coupling commercial finite element codes to improve modelling of F1/FE power-train systems. This is my CS related research/portfolio page, if you want to look at my previous engineering career(publications, patents etc.) please find me on LinkedIn. 
 
 
 
@@ -54,7 +54,7 @@ kNN Classifier &  Decision Tree Classifier Comparison
 
 Two techniques which are decision tree and k-nn binary classifier have been selected as machine learning models for fraud detection problem.
 
-Initially, SMOTE over-sampling method is used to overcome class in-balance problem. This method is proved it's power with oversample data without duplicating the target labels. Later, data split statically as test and train from whole data set by using 30% which is recommended in course notes from unit 2 classification part. In the first part of first technique, Decision tree binary classification algorithm was used with static data split. Later, hyperparameter which is n_neighbor is checked by passing a range of values. The similar approach is also used with cross validation method to overcome overfitting problem. Then performance metrics observed to choose the best hyperparameters this time by using cross validation with dynamic splitting. In the second part of study similar approach applied to k-NN binary classifier algorithm. For cross validatio nwith chosen the best parameters, Performance metric values are below;
+Initially, SMOTE over-sampling method is used to overcome class in-balance problem. This method is proved it's power with oversample data without duplicating the target labels. Later, data split statically as test and train from whole data set by using 30% which is recommended in course notes from unit 2 classification part. In the first part of first technique, Decision tree binary classification algorithm was used with static data split. Later, hyperparameter which is n_neighbour is checked by passing a range of values. The similar approach is also used with cross validation method to overcome overfitting problem. Then performance metrics observed to choose the best hyperparameters this time by using cross validation with dynamic splitting. In the second part of study similar approach applied to k-NN binary classifier algorithm. For cross validatio nwith chosen the best parameters, Performance metric values are below;
 
 AUROC --> Decision Tree : 99.79%, k-NN : 99.86%
 
@@ -71,7 +71,7 @@ In static split method, it can be observable that AUROC and other performance me
 
 In this project, A* graph-traversal and path search algorithm is implemented in C++. 
 While this course does not provide any requisite for the project, I implement it in C++ to improve my C++ skills. 
-So, this project is both my learning from Algorithms course as well as my Udacity C++ developer's course conjuction. 
+So, this project is both my learning from Algorithms course as well as my Udacity C++ developer's course conjunction. 
 My implementation was different than Udacity's solution, however there was no difference in the solution for both codes. 
 
 ![image](https://user-images.githubusercontent.com/46696280/154197590-64d20a24-4fea-4761-b751-dd7f3b29b751.png)
@@ -90,7 +90,7 @@ Through this coursework, I:
 -Gained a deeper understanding of feature maps and filters by visualizing some from a pre-trained network.
 
 Pytorch is used to complete project. 
-3x64x64 resolution >10k image data is used in this project for multiclass classification. 
+3x64x64 resolution >10k image data is used in this project for multi-class classification. 
 
 I developed my own CNN architecture, optimisation method, and training parameter tunning for the best accuracy on both test and training case. 
 
@@ -142,11 +142,11 @@ Optimisation model, hypertunning the parameters are performed. GPU training is c
 In this project the aim is captioning the image and according the 0.221 value, it can be concluded that it is not a good score since every caption finds the almost 22% meaningful overlap between test case captions. Even though 0.221 is a low number,human judge should be consider. BLEU is largely used in machine translation which compares translated sentence to original sentence. In this project, image captioning is the main aim, and comparing predicted caption with 5 different reference may fail the BLEU as a disadvantage. Before judging BLEU in terms of it's prediction over meaningful sentence or just number of overlapped words, human level judgment should be considered.
 
 
-### Carnegie Mellon Universuity - Computer Graphics 
+### Carnegie Mellon University - Computer Graphics 
 
 This course offered by CMU, and their sources are (inc. assignments) available for public. 
 During the course, I completed rasterization assignment in C++. 
-In theproject, I implemented a software rasterizer that draws points, lines, triangles, and bitmap images.
+In the-project, I implemented a software rasterizer that draws points, lines, triangles, and bitmap images.
 Also, a given SVG file is able to be rasterized by my implementation both in hardware and software type implementation. 
 
 #### Hardware Rendering
@@ -158,16 +158,16 @@ Initially, I implemented hardware-rendering with OpenGL API support.
 #### Rasterization [Software Rendering]
 
 Later, software implementation of rasterization is completed by writing C++ from scratch. 
-The challange was, instead of scanning all the pixels, a clever algorithm was asked to improve speed of rasterization. 
+The challenge was, instead of scanning all the pixels, a clever algorithm was asked to improve speed of rasterization. 
 My approach was writing an algorithm to find framework of triangles and scanning only space in triangle framework. This improved the speed of software dramatically. Image below is to show triangle - framework capture algorithm's visualisation. 
 
 ![image](https://user-images.githubusercontent.com/46696280/154199084-d0f8a4dc-289d-4b26-8882-b182426024c5.png)
 
 
-#### Rasterization [Software Rendering] - Anti-Aliasing Using Supersampling
+#### Rasterization [Software Rendering] - Anti-Aliasing Using Super-sampling
 
-In this task, I extended my rasterizer to anti-alias triangle edges via supersampling.
-Supersampling implementation is completed by using right memory management approach since cost of supersampling is high. 
+In this task, I extended my rasterizer to anti-alias triangle edges via super-sampling.
+Super-sampling implementation is completed by using right memory management approach since cost of super-sampling is high. 
 Results below shows 2 different sampling rate's (1x, 4x) performance over my implementation. 
 
 ![image](https://user-images.githubusercontent.com/46696280/154200375-661967f5-2e70-43e5-8b7f-a2c8a03784a4.png)
@@ -200,5 +200,4 @@ Udacity Nanodegree - C++ Developer [ongoing]
 
 
 - Contact : od20ahg@leeds.ac.uk 
-
 
