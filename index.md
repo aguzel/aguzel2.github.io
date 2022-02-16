@@ -8,7 +8,7 @@ Hello, I am University of Leeds AI & computer graphics master of science student
 
 
 #### Programming Skills 
-- Python [inc. all ML/Data Analysis libraries] 
+- Python [inc. major ML/Data Analysis libraries] 
 - C++ 
 - MATLAB 
 
