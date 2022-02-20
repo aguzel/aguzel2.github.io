@@ -1,10 +1,11 @@
 
 
-                                                                  ![image](https://user-images.githubusercontent.com/46696280/154851247-35cb569f-ec46-4f66-b223-3f605a95d9c1.png)
 
 
 
 ### A.H. Guzel
+                                                                  ![image](https://user-images.githubusercontent.com/46696280/154851247-35cb569f-ec46-4f66-b223-3f605a95d9c1.png)
+
 #### Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University of Leeds / UK 
 
 Hello, I am AI & computer graphics master of science student/researcher at University of Leeds pursuing a career change to computer graphics + (AI) research from motor-sports simulation engineer with several years of experience developing numerical computation tools to improve modelling of F1/FE power-train systems. This is my CS related research/portfolio page.If you want to look at my previous engineering career(publications, patents etc.) please find me on LinkedIn. 
