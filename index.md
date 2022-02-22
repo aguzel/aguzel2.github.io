@@ -3,8 +3,8 @@
 
 
 
-### A.H. Guzel
-![image](https://user-images.githubusercontent.com/46696280/154851247-35cb569f-ec46-4f66-b223-3f605a95d9c1.png)
+### Ahmet Hamdi Guzel
+
 
 #### Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University of Leeds / UK 
 
