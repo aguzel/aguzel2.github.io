@@ -4,6 +4,7 @@
 
 
 ### Ahmet Hamdi Guzel
+![image](https://user-images.githubusercontent.com/46696280/155124608-b1947f61-0621-4149-a937-19104bca279c.png)
 
 
 #### Computer Graphics Researcher  / Artificial Intelligence MSc Student @ University of Leeds / UK 
