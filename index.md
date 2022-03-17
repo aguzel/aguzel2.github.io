@@ -14,16 +14,18 @@ Hello, I am AI & computer graphics master of science student/researcher at Unive
 
 
 #### Programming Skills 
-- Python [inc. major ML/Data Analysis libraries] 
+- Python [inc. Pytorch]
 - C++ 
 - MATLAB 
 
 #### Interests and Skill Gaining Areas 
- I have only one main interest which is research in **[computer graphics + AI]**, and I am working to improve my technical competence areas below;
+ I have a great interest in **[computer vision + computer graphics + AI]**, and I am working to improve my technical competence areas below;
 
 -> Neural Rendering [inc. real-time graphics]
 
 -> Foveated Rendering + AI [VR]
+
+-> Computer Vision (Reconstruction/Rendering)  
 
 -> Geometry Processing [ML]
 
@@ -190,7 +192,7 @@ Results below shows 2 different sampling rate's (1x, 4x) performance over my imp
 
 ![image](https://user-images.githubusercontent.com/46696280/154200375-661967f5-2e70-43e5-8b7f-a2c8a03784a4.png)
 
-### C++ Developer Nanodegree Project - A* Search Route Planning Prjoect 
+#### C++ Developer Nanodegree Project - A* Search Route Planning Prjoect 
 
 ![image](https://user-images.githubusercontent.com/46696280/158911661-e2adb85e-c194-4299-8217-abd95894ce05.png)
 
@@ -202,11 +204,12 @@ The project was written in C++ using real map data and A* search to find a path 
 
 The code was written by using OOP techniques and basic software design principals.
 
-### C++ Developer Nanodegree Project - Linux System Monitor
+#### C++ Developer Nanodegree Project - Linux System Monitor 
 ![image](https://user-images.githubusercontent.com/46696280/158911718-0d3a0533-9b86-44e4-a406-6937c275634e.png)
 
 In this project, I developed system monitor by using advanced OOP techniques in C++. The developed program is light version of htop-system viewer application. 
-Linux OS keeps real-time operating system information by using file system. In this project, developed C++ application reads the files from the folders. Collected data is structured, processed and format it to output to Linux terminal. 
+
+Linux OS keeps real-time operating system information by using file system. In this project, developed C++ application reads the files from the folders,  collects the data and structures it, then data is processed and formatted for outputing to Linux terminal. 
 
 The project is using ncurses which is a library that facilitates text-based graphical output in the terminal. 
 
