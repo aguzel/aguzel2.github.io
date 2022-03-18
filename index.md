@@ -192,7 +192,7 @@ Results below shows 2 different sampling rate's (1x, 4x) performance over my imp
 
 ![image](https://user-images.githubusercontent.com/46696280/154200375-661967f5-2e70-43e5-8b7f-a2c8a03784a4.png)
 
-#### C++ Developer Nanodegree Project - A* Search Route Planning Prjoect 
+#### C++ Developer Nanodegree Project - A* Search Route Planner  
 
 ![image](https://user-images.githubusercontent.com/46696280/158911661-e2adb85e-c194-4299-8217-abd95894ce05.png)
 
