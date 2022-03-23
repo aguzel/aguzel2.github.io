@@ -225,9 +225,9 @@ based physics engine for propulsion system. Game consist more than 700 code line
 ### Certificates
 Udacity Nanodegree - C++ Developer [ongoing]
 
-Duke University - Introduction to Machine Learning 
+Arizona State University - Deep Learning in Visual Computing Systems [Pytorch]
 
-Arizona State University - Deep Learning in Visual Computing Systems
+Duke University - Introduction to Machine Learning [Pytorch]
 
 UIUC - OOP Data Structures in C++ 
 
@@ -237,7 +237,7 @@ Arizona State University - Computer Organization and Assembly Language processin
 
 Arizona State University - Operating Systems 
 
-Michigan State University - Game Development 
+Michigan State University - Game Development [Unity]
 
 
 - Contact : od20ahg@leeds.ac.uk 
