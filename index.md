@@ -213,6 +213,13 @@ Linux OS keeps real-time operating system information by using file system. In t
 
 The project is using ncurses which is a library that facilitates text-based graphical output in the terminal. 
 
+#### C++ Developer Nanodegree Project - Chatbot Memory Management 
+
+The ChatBot code creates a dialogue where users can ask questions about some aspects of memory management in C++. After the knowledge base of the chatbot has been loaded from a text file, a knowledge graph representation is created in computer memory, where chatbot answers represent the graph nodes and user queries represent the graph edges. After a user query has been sent to the chatbot, the Levenshtein distance is used to identify the most probable answer. The code is fully functional as-is and uses raw pointers to represent the knowledge graph and interconnections between objects throughout the project.
+
+In this project I analyzed and modified the program. Although the program can be executed and works as intended, no advanced concepts as discussed in this course have been used; there are currently no smart pointers, no move semantics and not much thought has been given to ownership or memory allocation. 
+<img src="/images/chatbot_demo.gif"/>
+
 ### Personal Game Development Project - Twin Interaction eVTOL 
 
 I developed a game in Unity VS C# environment. Game interacts with hobby motors and communicate over serial communication port. Gamer's
@@ -223,7 +230,7 @@ based physics engine for propulsion system. Game consist more than 700 code line
 
 
 ### Certificates
-Udacity Nanodegree - C++ Developer [ongoing]
+Udacity Nanodegree - C++ Developer 
 
 Arizona State University - Deep Learning in Visual Computing Systems [Pytorch]
 
