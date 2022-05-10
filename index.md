@@ -225,6 +225,18 @@ In this project I analyzed and modified the program. Although the program can be
 This is the project for the fourth course in the Udacity C++ Nanodegree Program: Concurrency.
 Throughout the Concurrency course, I developed a traffic simulation in which vehicles are moving along streets and are crossing intersections. However, with increasing traffic in the city, traffic lights are needed for road safety. Each intersection will therefore be equipped with a traffic light. In this project, I built a suitable and thread-safe communication protocol between vehicles and intersections to complete the simulation. I used my knowledge of concurrent programming (such as mutexes, locks and message queues) to implement the traffic lights and integrate them properly in the code base.
 ![image](https://user-images.githubusercontent.com/46696280/167740743-d2dc9173-e4c0-47ca-977a-48a0eaf2c328.png)
+ 
+ #### C++ Developer Nanodegree Project - Snake Game with Diffuculty Level Setting
+ 
+ This C++ project is the capstone project (final) of the Udacity C++ Nanodegree. The source code has been mostly adapted from the provided starter code located at (Udacity's repo)[https://github.com/udacity/CppND-Capstone-Snake-Game]. The code base can be divided architecturally and functionally into four distinct class-based components:
+Renderer component is responsible for rendering the state of the game using the popular SDL library
+Game component constructs and maintains the game board and placement of the game elements like the snake and food.
+Snake component constructs and maintains the snake object as it moves across the board gaining points and checking if it ran into itself.
+Controller component receives input from the user in order to control movement of the snake.
+Once the game starts and creates the Game, Controller, and Snake objects, the game continues to loop through each component as it grabs input from the user, Controller, updates the state of the Game, and graphically renderers the state of the game, Render.
+
+![image](https://user-images.githubusercontent.com/46696280/167740912-a574d934-4e86-4345-bc16-2a913d999f12.png)
+![image](https://user-images.githubusercontent.com/46696280/167740879-82d19771-9ffe-4e9a-965a-5232f24a96a9.png)
 
 
 ### Personal Game Development Project - Twin Interaction eVTOL 
