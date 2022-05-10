@@ -161,6 +161,23 @@ Optimisation model, hypertunning the parameters are performed. GPU training is c
 
 In this project the aim is captioning the image and according the 0.221 value, it can be concluded that it is not a good score since every caption finds the almost 22% meaningful overlap between test case captions. Even though 0.221 is a low number,human judge should be consider. BLEU is largely used in machine translation which compares translated sentence to original sentence. In this project, image captioning is the main aim, and comparing predicted caption with 5 different reference may fail the BLEU as a disadvantage. Before judging BLEU in terms of it's prediction over meaningful sentence or just number of overlapped words, human level judgment should be considered.
 
+### University of Leeds - AI MSc - Course : Robotics / Reinforcement Learning 
+his projects explores the challenge of autonomous mobile robot navigation in complex environments. The objective of autonomous mobile robot navigation is to reach goal position and return back to original position, without colliding with obstacles. Between two objectives, there is another task which is robot should manipulate the object on the goal position, before returning the starting position of task one.
+
+Instead of path planning and SLAM algorithms, deep reinforcement learning is applied in this project. There are two different reinforcement learning methods are applied during start position to goal and goal to start position. Both methods are designed with neural network architecture (deep reinforcement learning).
+1st Method : Deep Reinforcement Learning 1 (Policy Gradient) for navigation 1
+
+2nd Method : Deep Reinforcement Learning 2 (DQN) for navigation 2
+In this project Gazebo is used as simulator, since it best supports the requirements for training the navigation robot agent. It provides physics engine and sensors simulation at faster than real world physical robot. OpenAI Robot Operating System (OpenAI ROS) is also used in this project. OpenAI ROS interfaces directly with Gazebo, without necessitating any changes to software in order to run in simulation as opposed to the physical world, and it provides wide range reinforcement Learning libraries that allow to train turtlebot on tasks. Since creating this simulation ecosystem for the project is time consuming, a virtual machine is provided by the instructor is used instead of creating from sctrach.Instead of VM ready world,a new world is created for navigation task.
+
+Hyper parameter tunning and reward function design are studied,and results are compared in terms of total reward after each step.
+
+![image](https://user-images.githubusercontent.com/46696280/167741257-c7dce585-7744-48de-bf11-887c286f877e.png)
+
+![image](https://user-images.githubusercontent.com/46696280/167741324-dc0cb8ef-e2b2-4c0f-a596-ded22c169c09.png)
+
+![image](https://user-images.githubusercontent.com/46696280/167741368-be0650f4-1a21-4f45-86fe-0ec085b8ce67.png)
+
 
 ### Carnegie Mellon University - Computer Graphics 
 
