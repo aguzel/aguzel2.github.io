@@ -213,12 +213,19 @@ Linux OS keeps real-time operating system information by using file system. In t
 
 The project is using ncurses which is a library that facilitates text-based graphical output in the terminal. 
 
-#### C++ Developer Nanodegree Project - Chatbot Memory Management 
+#### C++ Developer Nanodegree Project - Chatbot Memory Management Project
 
 The ChatBot code creates a dialogue where users can ask questions about some aspects of memory management in C++. After the knowledge base of the chatbot has been loaded from a text file, a knowledge graph representation is created in computer memory, where chatbot answers represent the graph nodes and user queries represent the graph edges. After a user query has been sent to the chatbot, the Levenshtein distance is used to identify the most probable answer. The code is fully functional as-is and uses raw pointers to represent the knowledge graph and interconnections between objects throughout the project.
 
 In this project I analyzed and modified the program. Although the program can be executed and works as intended, no advanced concepts as discussed in this course have been used; there are currently no smart pointers, no move semantics and not much thought has been given to ownership or memory allocation. 
 ![image](https://user-images.githubusercontent.com/46696280/167740562-d8b750d9-25ff-4b6b-a401-75d03d218d72.png)
+
+#### C++ Developer Nanodegree Project - Concurrent Traffic Simulation 
+
+This is the project for the fourth course in the Udacity C++ Nanodegree Program: Concurrency.
+Throughout the Concurrency course, I developed a traffic simulation in which vehicles are moving along streets and are crossing intersections. However, with increasing traffic in the city, traffic lights are needed for road safety. Each intersection will therefore be equipped with a traffic light. In this project, I built a suitable and thread-safe communication protocol between vehicles and intersections to complete the simulation. I used my knowledge of concurrent programming (such as mutexes, locks and message queues) to implement the traffic lights and integrate them properly in the code base.
+![image](https://user-images.githubusercontent.com/46696280/167740743-d2dc9173-e4c0-47ca-977a-48a0eaf2c328.png)
+
 
 ### Personal Game Development Project - Twin Interaction eVTOL 
 
