@@ -4,8 +4,6 @@
 
 
 ### Ahmet Hamdi Guzel
-![image](https://user-images.githubusercontent.com/46696280/155124771-afd8b90a-ac4c-499d-ab0a-69c7f150e6e5.png)
-
 ![image](https://user-images.githubusercontent.com/46696280/172728916-70a6977a-9fe5-4952-b43d-eaaa426dbd75.png)
 
 
