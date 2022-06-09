@@ -27,11 +27,11 @@ Hello, I am AI & computer graphics master of science student/researcher at Unive
 
 -> Foveated Rendering + AI [VR]
 
+-> Computational Imaging & Photography 
+
 -> Computer Vision (Reconstruction/Rendering)  
 
--> Geometry Processing [ML]
-
--> Graphics GPU Pipeline APIs [Vulkan] <this is for deployment of CG+AI research output> 
+-> Graphics Hardware and GPU Pipeline APIs [Vulkan] 
 
 ## Gradute Coursework/Projects Portfolio
 
