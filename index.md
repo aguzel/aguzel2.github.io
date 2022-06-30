@@ -236,7 +236,7 @@ The project is using ncurses which is a library that facilitates text-based grap
 
 The ChatBot code creates a dialogue where users can ask questions about some aspects of memory management in C++. After the knowledge base of the chatbot has been loaded from a text file, a knowledge graph representation is created in computer memory, where chatbot answers represent the graph nodes and user queries represent the graph edges. After a user query has been sent to the chatbot, the Levenshtein distance is used to identify the most probable answer. The code is fully functional as-is and uses raw pointers to represent the knowledge graph and interconnections between objects throughout the project.
 
-In this project I analyzed and modified the program. Although the program can be executed and works as intended, no advanced concepts as discussed in this course have been used; there are currently no smart pointers, no move semantics and not much thought has been given to ownership or memory allocation. 
+In this project I analyzed and modified the program. Although the program can be executed and works as intended, I have added advanced concepts which are smart pointers, move semantics, ownership and memory allocation. 
 ![image](https://user-images.githubusercontent.com/46696280/167740562-d8b750d9-25ff-4b6b-a401-75d03d218d72.png)
 
 #### C++ Developer Nanodegree Project - Concurrent Traffic Simulation 
