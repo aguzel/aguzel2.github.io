@@ -19,15 +19,13 @@ Hello, I am AI & computer graphics master of science student/researcher at Unive
 - MATLAB 
 
 #### Interests and Skill Gaining Areas 
- I have a great interest in **[computer vision + computer graphics + AI]**, and I am working to improve my technical competence areas below;
+ I have a great interest in Artificial Intelligence, and I am working to improve my technical competence areas below;
 
--> Computational Imaging & Photography 
+-> Reliable and Interpretable Artificial Intelligence
 
--> Neural Rendering [inc. real-time graphics]
+-> Perception Benchmark Through AI
 
--> Foveated Rendering + AI [VR]
-
--> Graphics Hardware and GPU Pipeline APIs [Vulkan] 
+-> Theory of Computation
 
 ## Gradute Coursework/Projects Portfolio
 
