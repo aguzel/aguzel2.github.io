@@ -11,9 +11,7 @@
 
 #### AI / Graphics MSc Student @ University of Leeds / UK 
 
-Hello, I am AI & computer graphics master of science student/researcher at University of Leeds pursuing a career change to computer graphics + (AI) research from motor-sports simulation engineer with several years of experience developing FEA simulation methods to improve modelling of F1/FE power-train systems. This is my CS related research/portfolio page.If you want to look at my previous engineering career(publications, patents etc.) please find me on LinkedIn. I am also the active member of Mensa UK where I meet with great friends. 
-
-
+Hello, I am AI & computer graphics master of science student/researcher at University of Leeds pursuing a career change to Artificial Intelligence research from motor-sports simulation engineer with several years of experience developing FEA simulation methods to improve modelling of F1/FE power-train systems. This is my CS related research/portfolio page.If you want to look at my previous engineering career(publications, patents etc.) please find me on LinkedIn. I am also the active member of Mensa UK where I meet with great friends. 
 
 #### Programming Skills 
 - Python [inc. Pytorch]
