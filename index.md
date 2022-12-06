@@ -25,6 +25,8 @@ Hello, I am Artificial Intelligence MSc student/researcher at University of Leed
 
 -> Perception Benchmark Through AI
 
+-> Human-like Machine Vision
+
 -> Theory of Computation
 
 ## Gradute Coursework/Projects Portfolio
