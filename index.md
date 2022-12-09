@@ -21,13 +21,12 @@ Hello, I am Artificial Intelligence MSc student/researcher at University of Leed
 #### Interests and Skill Gaining Areas 
  I have a great interest in Artificial Intelligence, and I am working to improve my technical competence areas below;
 
--> Reliable and Interpretable Artificial Intelligence
-
--> Perception Benchmark Through AI
-
 -> Human-like Machine Vision
 
--> Theory of Computation
+-> Neural Rendering / Learned Methods for Computational Display
+
+-> Reliable and Interpretable Artificial Intelligence
+
 
 ## Gradute Coursework/Projects Portfolio
 
