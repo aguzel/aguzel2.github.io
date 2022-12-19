@@ -11,7 +11,9 @@
 
 #### Artificial Intelligent MSc Student @ University of Leeds / UK 
 
-Hello, I am Artificial Intelligence MSc student/researcher at University of Leeds pursuing a career change to Artificial Intelligence research from motor-sports simulation engineer with several years of experience developing FEA simulation methods to improve modelling of F1/FE power-train systems. This is my CS related research/portfolio page.If you want to look at my previous engineering career(publications, patents etc.) please find me on LinkedIn. I am also the active member of Mensa UK where I meet with great friends. 
+Hello, I am Artificial Intelligence MSc student/researcher at University of Leeds pursuing a career change to Artificial Intelligence research from motor-sports simulation engineer with several years of experience developing FEA simulation methods to improve modelling of F1/FE power-train systems.
+I am also a master's student researcher in the Computational Light Laboratory at University College London. 
+This is my AI related research/portfolio page.If you want to look at my previous engineering career(publications, patents etc.) please find me on LinkedIn. I am also the active member of Mensa UK where I meet with great friends. 
 
 #### Research Interest : _**Human-like Machine Vision**_
 
