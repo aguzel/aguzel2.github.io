@@ -28,9 +28,8 @@ The way machines and humans perceive their worlds is central to their intelligen
 
 
 ## Publications 
-**1- ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**
+[**1- ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**](https://arxiv.org/abs/2212.04264)
 
-(https://arxiv.org/abs/2212.04264)
 
 ![image](https://user-images.githubusercontent.com/46696280/208499704-8c69395d-eead-49f3-a4b2-bb50b4f49b13.png)
 
