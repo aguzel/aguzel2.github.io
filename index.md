@@ -13,11 +13,6 @@
 
 Hello, I am Artificial Intelligence MSc student/researcher at University of Leeds pursuing a career change to Artificial Intelligence research from motor-sports simulation engineer with several years of experience developing FEA simulation methods to improve modelling of F1/FE power-train systems. This is my CS related research/portfolio page.If you want to look at my previous engineering career(publications, patents etc.) please find me on LinkedIn. I am also the active member of Mensa UK where I meet with great friends. 
 
-#### Programming Skills 
-- Python [inc. Pytorch]
-- C++ 
-- MATLAB 
-
 #### Interests and Skill Gaining Areas 
  I have a great interest in Artificial Intelligence, and I am working to improve my technical competence areas below;
 
@@ -26,6 +21,14 @@ Hello, I am Artificial Intelligence MSc student/researcher at University of Leed
 -> Neural Rendering / Learned Methods for Computational Display
 
 -> Reliable and Interpretable Artificial Intelligence
+
+
+## Publications 
+![image](https://user-images.githubusercontent.com/46696280/208496372-e664c12b-f1b3-48dd-ae87-acec9d53e241.png)
+
+ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance
+
+Link : https://arxiv.org/abs/2212.04264
 
 
 ## Gradute Coursework/Projects Portfolio
