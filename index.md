@@ -16,7 +16,7 @@ Hello, I am Artificial Intelligence MSc student/researcher at University of Leed
 #### Research Interest
 
 
--> **Human-like Machine Vision**
+#### _**Human-like Machine Vision**_
 
 _"Intelligence is not pattern recognition"_
 **Josh Tenenbaum** 
