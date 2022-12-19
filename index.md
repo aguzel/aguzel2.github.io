@@ -11,15 +11,18 @@
 
 #### Artificial Intelligent MSc Student @ University of Leeds / UK 
 
-Hello, I am Artificial Intelligence MSc student/researcher at University of Leeds pursuing a career change to Artificial Intelligence research from motor-sports simulation engineer with several years of experience developing FEA simulation methods to improve modelling of F1/FE power-train systems.
-I am also a master's student researcher in the [Computational Light Laboratory at University College London](https://complightlab.com/). 
+Hello, I am **Artificial Intelligence MSc student at University of Leeds** and graduate intern in the [Computational Light Laboratory at University College London](https://complightlab.com/). 
+I am also experienced in multi‑physics simulation engineer creating numerical methods to improve modeling of automotive propulsion systems including Formula 1 racing cars. 
 
-This is my AI related research/portfolio page. If you want to look at my previous engineering career(publications, patents etc.) please find me on LinkedIn. I am also the active member of Mensa UK where I meet with great friends. 
+This is my AI related research/portfolio page.
+If you want to look at my previous engineering career(publications, patents etc.) please find me on LinkedIn.
+I am also the active member of [Mensa UK](https://mensa.org.uk/) where I meet with great friends. 
 
 #### Research Interest : _**Human-like Machine Vision**_
 
 _"Intelligence is not pattern recognition."_
-**Josh Tenenbaum** 
+
+                        **Josh Tenenbaum** 
 
 The way machines and humans perceive their worlds is central to their intelligence. However, the differences in their perception could cause a lack of empathy and vulnerability in their future actions. Though vision is not the only difference in their perception, I aim to address the challenge of creating robust machine systems that perceive visuals like humans. 
 
