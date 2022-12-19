@@ -50,8 +50,6 @@ Pytorch is used to complete project.
 
 I developed my own CNN architecture, optimisation method, and training parameter tunning for the best accuracy on both test and training case. 
 
-![image](https://user-images.githubusercontent.com/46696280/154195082-b0120c5b-52aa-4366-bbab-58bb308f0bad.png)
-
 - Analysis of CNN Filters and Max-Pooling Filters 
 
 ![image](https://user-images.githubusercontent.com/46696280/154195248-def2420a-5c8c-4404-b915-444692c6d776.png)
