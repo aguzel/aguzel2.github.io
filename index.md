@@ -24,8 +24,8 @@ Hello, I am Artificial Intelligence MSc student/researcher at University of Leed
 
 
 ## Publications 
-![image](https://user-images.githubusercontent.com/46696280/208496589-821b820e-1e98-4af8-af0d-8635a30ddc27.png) ### ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance
-
+![image](https://user-images.githubusercontent.com/46696280/208496589-821b820e-1e98-4af8-af0d-8635a30ddc27.png) 
+### **ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**
 Link : https://arxiv.org/abs/2212.04264
 
 
