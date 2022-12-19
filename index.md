@@ -13,10 +13,7 @@
 
 Hello, I am Artificial Intelligence MSc student/researcher at University of Leeds pursuing a career change to Artificial Intelligence research from motor-sports simulation engineer with several years of experience developing FEA simulation methods to improve modelling of F1/FE power-train systems. This is my CS related research/portfolio page.If you want to look at my previous engineering career(publications, patents etc.) please find me on LinkedIn. I am also the active member of Mensa UK where I meet with great friends. 
 
-#### Research Interest
-
-
-#### _**Human-like Machine Vision**_
+#### Research Interest : _**Human-like Machine Vision**_
 
 _"Intelligence is not pattern recognition"_
 **Josh Tenenbaum** 
