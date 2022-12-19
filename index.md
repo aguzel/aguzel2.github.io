@@ -16,7 +16,7 @@ I am also experienced in multi‑physics simulation engineer creating numerical 
 
 This is my AI related research/portfolio page.
 If you want to look at my previous engineering career (publications, patents etc.), please find me on [LinkedIn](https://www.linkedin.com/in/ahmethamdiguzel/).
-I am also the active member of [Mensa UK](https://mensa.org.uk/) where I meet with great friends. 
+I am active member of [Mensa UK](https://mensa.org.uk/) where I meet with great friends. 
 
 #### Research Interest : _**Human-like Machine Vision**_
 
