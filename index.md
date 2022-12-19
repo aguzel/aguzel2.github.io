@@ -28,7 +28,7 @@ The way machines and humans perceive their worlds is central to their intelligen
 
 _"If computers could be made to perceive, or could be coupled to machines that could perceive, a far greater revolution would be at hand."_
 
-<sup><sub>(Proceedings of the American Philosophical Society , Mar., 1990, Vol. 134, No. 1 (Mar., 1990), pp. 36-73)</sub></sup>
+<sup><sub>(Proceedings of the American Philosophical Society , Mar., 1990, Vol. 134, No. 1, pp. 36-73)</sub></sup>
 
 
 
