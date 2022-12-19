@@ -20,9 +20,7 @@ I am also the active member of [Mensa UK](https://mensa.org.uk/) where I meet wi
 
 #### Research Interest : _**Human-like Machine Vision**_
 
-_"Intelligence is not pattern recognition."_
-
-**Josh Tenenbaum, MIT (CSAIL, CBMM, BCS)** 
+_"Intelligence is not pattern recognition."_ **Josh Tenenbaum, MIT (CSAIL, CBMM, BCS)** 
 
 The way machines and humans perceive their worlds is central to their intelligence. However, the differences in their perception could cause a lack of empathy and vulnerability in their future actions. Though vision is not the only difference in their perception, I aim to address the challenge of creating robust machine systems that perceive visuals like humans. 
 
