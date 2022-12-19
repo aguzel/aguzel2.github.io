@@ -3,7 +3,7 @@
 
 
 
-### Ahmet Hamdi Guzel
+### Ahmet Hamdi Güzel
 ![image](https://user-images.githubusercontent.com/46696280/172728916-70a6977a-9fe5-4952-b43d-eaaa426dbd75.png)
 
 
