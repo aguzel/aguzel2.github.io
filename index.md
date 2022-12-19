@@ -31,12 +31,16 @@ Hello, I am Artificial Intelligence MSc student/researcher at University of Leed
 ### **ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**
 Link : https://arxiv.org/abs/2212.04264
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://user-images.githubusercontent.com/46696280/208498567-b89bff5c-ff52-4041-8a8e-963631c89b0d.mp4) "Now in Android: 55")
 
 
 
 
 ## Gradute Coursework/Projects Portfolio
+
+
+
+
 
 ### University of Leeds - AI MSc - Course : Programming For Data Science 
 -California Housing Price Prediction
