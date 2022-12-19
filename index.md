@@ -15,7 +15,7 @@ Hello, I am **Artificial Intelligence MSc student at University of Leeds** and g
 I am also experienced in multi‑physics simulation engineer creating numerical methods to improve modeling of automotive propulsion systems including Formula 1 racing cars. 
 
 This is my AI related research/portfolio page.
-If you want to look at my previous engineering career(publications, patents etc.) please find me on [LinkedIn](https://www.linkedin.com/in/ahmethamdiguzel/).
+If you want to look at my previous engineering career (publications, patents etc.), please find me on [LinkedIn](https://www.linkedin.com/in/ahmethamdiguzel/).
 I am also the active member of [Mensa UK](https://mensa.org.uk/) where I meet with great friends. 
 
 #### Research Interest : _**Human-like Machine Vision**_
