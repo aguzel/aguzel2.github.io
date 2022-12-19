@@ -27,7 +27,7 @@ Hello, I am Artificial Intelligence MSc student/researcher at University of Leed
 ![image](https://user-images.githubusercontent.com/46696280/208496589-821b820e-1e98-4af8-af0d-8635a30ddc27.png) 
 
 <video width="320" height="240" controls>
-  <source src="video.mov" type="video/mp4">
+  <source src="parrot.mp4" type="video/mp4">
 </video>
 
 ### **ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**
