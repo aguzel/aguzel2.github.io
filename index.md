@@ -24,10 +24,11 @@ Hello, I am Artificial Intelligence MSc student/researcher at University of Leed
 
 
 ## Publications 
-![image](https://user-images.githubusercontent.com/46696280/208499530-7ffc438e-bae2-40c2-9d84-f2f8546bd2bf.png)
-
 **ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**
 (https://arxiv.org/abs/2212.04264)
+![image](https://user-images.githubusercontent.com/46696280/208499704-8c69395d-eead-49f3-a4b2-bb50b4f49b13.png)
+
+
 
 
 
