@@ -18,8 +18,8 @@ Hello, I am Artificial Intelligence MSc student/researcher at University of Leed
 
 -> **Human-like Machine Vision**
 
-__"Intelligence is not pattern recognition"
-Josh Tenenbaum 
+_"Intelligence is not pattern recognition"_
+**Josh Tenenbaum** 
 
 The way machines and humans perceive their worlds is central to their intelligence. However, the differences in their perception could cause a lack of empathy and vulnerability in their future actions. Though vision is not the only difference in their perception, I aim to address the challenge of creating robust machine systems that perceive visuals like humans. 
 
