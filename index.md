@@ -17,10 +17,13 @@ Hello, I am Artificial Intelligence MSc student/researcher at University of Leed
 
 
 -> **Human-like Machine Vision**
-The way machines and humans perceive their worlds is central to their intelligence. However, the differences in their perception could cause a lack of empathy and vulnerability in their future actions. Though vision is not the only difference in their perception, I aim to address the challenge of creating robust machine systems that perceive visuals like humans. 
 
 __"Intelligence is not pattern recognition"
 Josh Tenenbaum 
+
+The way machines and humans perceive their worlds is central to their intelligence. However, the differences in their perception could cause a lack of empathy and vulnerability in their future actions. Though vision is not the only difference in their perception, I aim to address the challenge of creating robust machine systems that perceive visuals like humans. 
+
+![image](https://user-images.githubusercontent.com/46696280/208502523-ebd5774e-65ef-4665-9bf4-b8c767189e38.png)
 
 
 ## Publications 
