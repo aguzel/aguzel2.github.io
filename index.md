@@ -33,7 +33,7 @@ _"If computers could be made to perceive, or could be coupled to machines that c
 
 
 ## Publications 
-[**1- ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**](https://arxiv.org/abs/2212.04264)
+[**1- ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**](http://complightlab.com/ChromaCorrect/)
 
 
 ![image](https://user-images.githubusercontent.com/46696280/208499704-8c69395d-eead-49f3-a4b2-bb50b4f49b13.png)
