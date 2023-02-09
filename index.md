@@ -18,17 +18,18 @@ This is my AI related research/portfolio page.
 If you want to look at my previous engineering career (publications, patents etc.), please find me on [LinkedIn](https://www.linkedin.com/in/ahmethamdiguzel/).
 I am active member of [Mensa UK](https://mensa.org.uk/) where I meet with great friends. 
 
-#### Research Interest : _**Human-like Machine Vision**_
+#### Research Interest : _**Machine Learning & Computational Displays**_
 
-_"Intelligence is not about pattern recognition."_ **Josh Tenenbaum, MIT (CSAIL, CBMM, BCS)** 
+I am passionate about exploring the intersections between machine learning and computational displays. My research focuses on developing new algorithms and techniques for enhancing the realism and interactivity of holographic displays using machine learning.
 
-The way machines and humans perceive their worlds is central to their intelligence. However, the differences in their perception could cause a lack of empathy and vulnerability in their future actions. Though vision is not the only difference in their perception, I aim to address the challenge of creating robust machine systems that perceive visuals like humans. 
+I believe holographic displays have the potential to revolutionize the way we interact with digital information, but creating high-quality, realistic holograms remains a challenge. By incorporating machine learning techniques, I aim to address these challenges and create holographic displays that are more realistic, interactive, and intuitive. My aim combining theories and techniques from machine learning and holography to create new and innovative solutions for holographic display. In particular, I am interesed in the use of generative models to generate and optimize holographic content. Additionally, I am exploring new ways to interact with holographic displays using machine learning techniques, such as computer vision and deep learning.
 
-![image](https://user-images.githubusercontent.com/46696280/208502523-ebd5774e-65ef-4665-9bf4-b8c767189e38.png)
+![image](https://user-images.githubusercontent.com/46696280/217693618-251631e5-859c-474f-b148-81cf862e7f67.png)
 
-_"If computers could be made to perceive, or could be coupled to machines that could perceive, a far greater revolution would be at hand."_
 
-<sup><sub>(Proceedings of the American Philosophical Society , Mar., 1990, Vol. 134, No. 1, pp. 36-73)</sub></sup>
+_"The ultimate display would, of course, be a room within which the computer can control the existence of matter. A chair displayed in such a room would be good enough to sit in. Handcuffs displayed in such a room would be confining, and a bullet displayed in such a room would be fatal. With appropriate programming such a display could literally be the Umtimate Wonderland into which Alice walked"_
+
+<sup><sub>(Ivan E.Sutherland, The Ultimate Display, 1965)</sub></sup>
 
 
 
