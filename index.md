@@ -31,7 +31,7 @@ _"The ultimate display would, of course, be a room within which the computer can
 
 <sup><sub>(Ivan E.Sutherland, The Ultimate Display, 1965)</sub></sup>
 
-**With the power of Artificial Intelligence and advanced display technology, I am confident that we can unlock the door to a new world of infinite possibilities, where we can design and experience our dreams in real-time, like never before. **
+**With the power of Artificial Intelligence and advanced display technology, I am confident that we can unlock the door to a new world of infinite possibilities, where we can design and experience our dreams in real-time, like never before.**
 
 
 
