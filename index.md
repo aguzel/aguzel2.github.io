@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/46696280/172728916-70a6977a-9fe5-4952-b43d-eaaa426dbd75.png)
 
 
-#### Incoming PhD Student at **University College London Foundational AI** and  Artificial Intelligent MSc Student @ University of Leeds / UK and 
+#### Artificial Intelligent MSc Student @ University of Leeds / UK and 
 
 Hello, I am **Artificial Intelligence MSc student at University of Leeds** and an incoming PhD student at **University College London Foundational AI** starting September 2023. I have been working as master intern in the [Computational Light Laboratory at University College London](https://complightlab.com/). 
 I am also experienced in multi‑physics simulation engineer creating numerical methods to improve modeling of automotive propulsion systems including Formula 1 racing cars. 
