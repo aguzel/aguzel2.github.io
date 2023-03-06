@@ -6,7 +6,9 @@
 ### Ahmet Hamdi Güzel
 <!-- ![image](https://user-images.githubusercontent.com/46696280/172728916-70a6977a-9fe5-4952-b43d-eaaa426dbd75.png) -->
 
-![starwars_ahguzel](https://user-images.githubusercontent.com/46696280/222997125-f455cbb0-b736-4baa-a281-eeb9d58bed3c.jpg)
+
+![starwars_ahguzel_small](https://user-images.githubusercontent.com/46696280/222997254-d92c78e0-d207-4c26-aa6d-127bb28832ab.jpg)
+
 
 #### Artificial Intelligent MSc Student @ University of Leeds / UK and 
 
