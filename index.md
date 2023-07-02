@@ -6,8 +6,11 @@
 ### Ahmet Hamdi Güzel
 <!-- ![image](https://user-images.githubusercontent.com/46696280/172728916-70a6977a-9fe5-4952-b43d-eaaa426dbd75.png) -->
 
+![image](https://github.com/aguzel/aguzel.github.io/assets/46696280/6e77d383-7532-45be-8d8a-413378e5f74f)
 
-![starwars_ahguzel_small](https://user-images.githubusercontent.com/46696280/222997254-d92c78e0-d207-4c26-aa6d-127bb28832ab.jpg)
+
+
+<!--![starwars_ahguzel_small](https://user-images.githubusercontent.com/46696280/222997254-d92c78e0-d207-4c26-aa6d-127bb28832ab.jpg) -->
 
 
 #### Artificial Intelligent MSc Student @ University of Leeds / UK and 
