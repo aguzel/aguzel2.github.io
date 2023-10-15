@@ -16,7 +16,7 @@
 #### Ph.D. Student @ University College London Computational Light Lab 
 #### MSc @ Artificial Intelligence University of Leeds
 
-Hello, I am a **PhD student at University College London Computer Science Department** under the supervision of Dr. Kaan Aksit, and Tobias Ritschel. I worked as a master's intern in the [Computational Light Laboratory at University College London](https://complightlab.com/). 
+Hello, I am a **PhD student at University College London Computer Science Department** under the supervision of Dr. Kaan Aksit, and Prof. Tobias Ritschel. I worked as a master's intern in the [Computational Light Laboratory at University College London](https://complightlab.com/). 
 I am also experienced in multi‑physics simulation engineering creating numerical methods to improve the modeling of automotive propulsion systems including Formula 1 racing cars. 
 
 This is my AI-related research/portfolio page.
