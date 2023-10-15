@@ -16,21 +16,18 @@
 #### Ph.D. Student @ University College London Computational Light Lab 
 #### MSc @ Artificial Intelligent University of Leeds
 
-Hello, I am **Artificial Intelligence MSc student at University of Leeds** and an incoming PhD student at **University College London Foundational AI** starting September 2023. I have been working as master intern in the [Computational Light Laboratory at University College London](https://complightlab.com/). 
-I am also experienced in multi‑physics simulation engineer creating numerical methods to improve modeling of automotive propulsion systems including Formula 1 racing cars. 
+Hello, I am **PhD student at University College London Computer Science Department**. I worked as a master's intern in the [Computational Light Laboratory at University College London](https://complightlab.com/). 
+I am also experienced in multi‑physics simulation engineering creating numerical methods to improve the modeling of automotive propulsion systems including Formula 1 racing cars. 
 
-This is my AI related research/portfolio page.
-If you want to look at my previous engineering career (publications, patents etc.), please find me on [LinkedIn](https://www.linkedin.com/in/ahmethamdiguzel/).
-I am active member of [Mensa UK](https://mensa.org.uk/) where I meet with great friends. 
+This is my AI-related research/portfolio page.
+If you want to look at my previous engineering career (publications, patents, etc.), please find me on [LinkedIn](https://www.linkedin.com/in/ahmethamdiguzel/).
+I am an active member of [Mensa UK](https://mensa.org.uk/) where I meet with great friends. 
 
-#### Research Interest : _**Machine Learning & Computational Displays**_
+#### Research Interest : _**Deep Learning Learning & Computational Displays &* Computer Graphics**_
 
-I am passionate about exploring the intersections between machine learning and computational displays. My research focuses on developing new algorithms and techniques for enhancing the realism and interactivity of holographic displays using machine learning.
-
-I believe holographic displays have the potential to revolutionize the way we interact with digital information, but creating high-quality, realistic holograms remains a challenge. By incorporating machine learning techniques, I aim to address these challenges and create holographic displays that are more realistic, interactive, and intuitive. My aim combining theories and techniques from machine learning and holography to create new and innovative solutions for holographic display. In particular, I am interesed in the use of generative models to generate and optimize holographic content. Additionally, I am exploring new ways to interact with holographic displays using machine learning techniques, such as computer vision and deep learning.
+I am deeply interested in the intersection of AI, computational displays, and computer graphics. My work focuses on using advanced deep-learning techniques to enhance the realism and interactivity of graphical displays. A core aspect of my research involves integrating differentiable ray tracing for optical systems with AI, elevating both computational optics and the visual authenticity of computer graphics through neural rendering. Mentored by Dr. Kaan Aksit at the Computational Light Laboratory, I continually expand my knowledge in these areas. I earned my MSc in Artificial Intelligence from Leeds University and have a strong background in computational engineering, especially within the motorsports sector.
 
 ![image](https://user-images.githubusercontent.com/46696280/217693618-251631e5-859c-474f-b148-81cf862e7f67.png)
-
 
 _"The ultimate display would, of course, be a room within which the computer can control the existence of matter. A chair displayed in such a room would be good enough to sit in. Handcuffs displayed in such a room would be confining, and a bullet displayed in such a room would be fatal. With appropriate programming such a display could literally be the Umtimate Wonderland into which Alice walked"_
 
@@ -45,6 +42,16 @@ _"The ultimate display would, of course, be a room within which the computer can
 
 
 ![image](https://user-images.githubusercontent.com/46696280/208499704-8c69395d-eead-49f3-a4b2-bb50b4f49b13.png)
+
+
+
+[**2- Designing Efficient Image-to-Image Translation Artificial Neural Network Model For Segmenting Fashion Images**](https://github.com/aguzel/ChromaFashionette)
+
+
+
+
+![image](https://github.com/aguzel/aguzel.github.io/assets/46696280/eccc507c-f05f-4fd6-a496-488f35f92121)
+
 
 
 
