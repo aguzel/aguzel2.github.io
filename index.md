@@ -23,7 +23,7 @@ This is my AI-related research/portfolio page.
 If you want to look at my previous engineering career (publications, patents, etc.), please find me on [LinkedIn](https://www.linkedin.com/in/ahmethamdiguzel/).
 I am an active member of [Mensa UK](https://mensa.org.uk/) where I meet with great friends. 
 
-#### Research Interest : _**Deep Learning Learning & Computational Displays &* Computer Graphics**_
+#### Research Interest : _**Deep Learning & Computational Displays & Computer Graphics**_
 
 I am deeply interested in the intersection of AI, computational displays, and computer graphics. My work focuses on using advanced deep-learning techniques to enhance the realism and interactivity of graphical displays. A core aspect of my research involves integrating differentiable ray tracing for optical systems with AI, elevating both computational optics and the visual authenticity of computer graphics through neural rendering. Mentored by Dr. Kaan Aksit at the Computational Light Laboratory, I continually expand my knowledge in these areas. I earned my MSc in Artificial Intelligence from Leeds University and have a strong background in computational engineering, especially within the motorsports sector.
 
