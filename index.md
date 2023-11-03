@@ -36,7 +36,6 @@ _"The ultimate display would, of course, be a room within which the computer can
 **With the power of Artificial Intelligence and advanced display technology, I am confident that we can unlock the door to a new world of infinite possibilities, where we can design and experience our dreams in real-time, like never before.**
 
 
-
 ## Publications 
 [**1- ChromaCorrect: Prescription Correction in Virtual Reality Headsets through Perceptual Guidance**](http://complightlab.com/ChromaCorrect/)
 
@@ -53,6 +52,9 @@ _"The ultimate display would, of course, be a room within which the computer can
 ![image](https://github.com/aguzel/aguzel.github.io/assets/46696280/eccc507c-f05f-4fd6-a496-488f35f92121)
 
 
+## News
+
+I am thrilled to announce a significant achievement at the recent UKRI AI CDT Conference 2023 in Bristol UK. Our research [ChromaCorrect](http://complightlab.com/ChromaCorrect/)  was showcased among a diverse array of over 50 posters, and we're honored to have been awarded **First Place for Best Poster**. This event was a gathering of the brightest minds from the ART-AI CDT at the University of Bath, the Interactive AI CDT at the University of Bristol, and the Foundational AI CDT at UCL, fostering an environment ripe for collaboration and innovation. This recognition underscores our commitment to excellence in computational display research and our ongoing efforts to contribute meaningfully to the field.
 
 
 ## Gradute Coursework/Projects Portfolio
